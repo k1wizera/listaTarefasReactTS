@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/listaTarefasReactTS/static/css/main.e6c13ad2.css",
+    "main.js": "/listaTarefasReactTS/static/js/main.047ddef1.js",
+    "static/js/787.713aa9cd.chunk.js": "/listaTarefasReactTS/static/js/787.713aa9cd.chunk.js",
+    "index.html": "/listaTarefasReactTS/index.html",
+    "main.e6c13ad2.css.map": "/listaTarefasReactTS/static/css/main.e6c13ad2.css.map",
+    "main.047ddef1.js.map": "/listaTarefasReactTS/static/js/main.047ddef1.js.map",
+    "787.713aa9cd.chunk.js.map": "/listaTarefasReactTS/static/js/787.713aa9cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.047ddef1.js"
+  ]
+}
